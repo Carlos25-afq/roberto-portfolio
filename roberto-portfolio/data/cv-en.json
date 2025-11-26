@@ -1,0 +1,33 @@
+{
+  "personal": {
+    "name": "Roberto Carlos Tientcheu",
+    "title": "Demand Planner | S&OP Analyst | Data & Predictive Analytics Supply Chain",
+    "location": "Paris, France",
+    "email": "tnrc.2025@gmail.com",
+    "phone": "+33 7 45 68 70 84",
+    "linkedin": "https://linkedin.com/in/robertotientcheu",
+    "github": "https://github.com/Carlos25-afq",
+    "photo": "https://avatars.githubusercontent.com/u/188463812?v=4"
+  },
+  "hero": {
+    "stats": [
+      {
+        "value": "93%",
+        "label": "Forecast accuracy",
+        "detail": "85% → 93% (+8 pts)"
+      },
+      {
+        "value": "-53%",
+        "label": "Stock-outs",
+        "detail": "15% → 7%"
+      },
+      {
+        "value": "59,000 €",
+        "label": "Annual savings",
+        "detail": "Logistics and transport"
+      }
+    ]
+  },
+  "summary": "Demand Planner with 2 years of experience in the chemical industry and FMCG, specialised in statistical forecasting, S&OP and inventory optimisation.",
+  "github_projects_link": "https://github.com/Carlos25-afq?tab=repositories"
+}
