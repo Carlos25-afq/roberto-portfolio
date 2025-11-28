@@ -38,7 +38,6 @@ This clean, modern website is deployed and maintained directly from this reposit
 
 ##  KEY ACHIEVEMENTS (IMPACT HIGHLIGHTS)
 
-The portfolio demonstrates tangible results achieved through rigorous statistical and analytical methods:
 
 * **Forecast Accuracy Improvement:** +8 points (from 85% to **93%**).
 * **Stock-Outs Reduction:** –53% reduction in rupture rates.
@@ -51,7 +50,6 @@ The portfolio demonstrates tangible results achieved through rigorous statistica
 
 ##  PROJECT STRUCTURE
 
-The architecture is clean, professional, and built for maintainability and speed.
 
 | Type | Element | Content / Objective |
 | :--- | :--- | :--- |
@@ -67,7 +65,6 @@ The architecture is clean, professional, and built for maintainability and speed
 
 ##  TECHNICAL STACK
 
-This project leverages a multi-platform technical expertise essential for modern Supply Chain roles.
 
 ### Data Analytics & BI
 * **Python:** `pandas`, `numpy`, `statsmodels`, `scikit-learn` (for predictive modeling).
@@ -88,7 +85,6 @@ This project leverages a multi-platform technical expertise essential for modern
 
 ##  REAL BUSINESS CASES
 
-The portfolio features detailed deep-dives into advanced projects using transactional data:
 
 | Sector | Key Focus Area | Data Scale |
 | :--- | :--- | :--- |
@@ -99,10 +95,4 @@ The portfolio features detailed deep-dives into advanced projects using transact
 
 ---
 
-## HOW TO CLONE 
 
-To run a local copy of this portfolio, use the following commands:
-
-```sh
-git clone [https://github.com/Carlos25-afq/roberto-portfolio.git](https://github.com/Carlos25-afq/roberto-portfolio.git)
-cd roberto-portfolio
